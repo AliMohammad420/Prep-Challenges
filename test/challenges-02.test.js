@@ -4,7 +4,10 @@ const {
   reverseArray,
   shuffleArray,
   shuffleString,
+
 } = require("./../code-challenges/challenges-02");
+=======
+} = require("./../code-challenges/Challenge02");
 
 describe("Challenge01", () => {
   test.skip("reverse_Array", () => {
